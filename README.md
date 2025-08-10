@@ -16,7 +16,7 @@ Each emoji has its own counter, and users can vote only once per post (IP or coo
 
 ## Description
 
-**Emoji Reactions Gutenberg** is a lightweight and interactive plugin that lets your visitors express their feelings quickly with emojis — without leaving a comment.  
+**Emoji Reactions Gutenberg** is a lightweight and interactive plugin that lets your visitors express their feelings quickly with emojis without leaving a comment.  
 Perfect for quick feedback and engagement tracking.
 
 **Features:**
@@ -56,6 +56,19 @@ Perfect for quick feedback and engagement tracking.
 
 ---
 
+## Screenshots
+
+1. **Block Search** – Adding the *Reactions Emoji* block in Gutenberg.  
+   ![Screenshot 1](assets/screenshot-1.jpg)  
+
+2. **Frontend View** – Emojis with independent counters displayed at the end of a post.  
+   ![Screenshot 2](assets/screenshot-2.jpg)  
+
+3. **Settings Page** – Customizing your emoji list in the admin panel.  
+   ![Screenshot 3](assets/screenshot-3.jpg)  
+
+---
+
 ## Frequently Asked Questions
 
 **Q:** Can I change the emojis?  
@@ -89,3 +102,4 @@ Full license text: [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.o
 This software is provided **"as-is"** without any warranty, express or implied.  
 The author is not responsible for any damage, data loss, or other issues caused by the use of this plugin.  
 Use at your own risk.
+
