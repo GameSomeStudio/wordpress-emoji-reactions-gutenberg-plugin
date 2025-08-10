@@ -1,0 +1,22 @@
+.wpr-editor-placeholder {
+    border: 2px dashed #ddd;
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.wpr-editor-icon {
+    font-size: 30px;
+}
+
+.wpr-editor-placeholder p {
+    margin: 10px 0 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+}
+
+.wpr-editor-placeholder small {
+    color: #777;
+}
